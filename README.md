@@ -80,14 +80,13 @@ Optimized for all devices including mobile phones, tablets, and desktops.
 
 ## 👨‍💻 Author
 
-**Husnain Manzoor Tarar**  
-Frontend Developer | Digital Marketing Website Specialist at **HMT Dev**
+**Husnain Manzoor**  
+Website Developer | **HMT Dev**
 
-📧 Email: hmtdev0@gmail.com  
-📍 Address: C/54 Northwest Freeway, Suite 568, Houston, USA 465
+📧 Email: hmtdev0@gmail.com
 
 ---
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
